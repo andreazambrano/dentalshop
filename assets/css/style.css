@@ -4754,4 +4754,22 @@ img.mfp-img {
   margin-top: 20px;
   padding: 8px 30px; }
 
+.whatsapp {
+  position:fixed;
+  width:45px;
+  height:45px;
+  bottom:20px;
+  left:20px;
+  background-color:#25d366;
+  color:#fff;
+  border-radius:50%;
+  text-align:center;
+  font-size:45px;
+  z-index:100;
+}
+
+.whatsapp-icon {
+  margin-top:15px;
+}
+
 /*# sourceMappingURL=style.css.map */
